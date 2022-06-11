@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman Ashraf</h1>
-<h3 align="center">A passionate frontend developer from Egypt I Graduated from faculty of commerce department of Business information systems, Helwan university (2016- 2020) with Very Good grade.Seeking a job in the field of “technology” in a reputable organization where gain experience. Eager to learn every day and gain more experience in different fields related to technology</h3>
+<h3 align="center">A passionate frontend developer from Egypt I Graduated from faculty of commerce department of Business information systems, Helwan university (2016- 2020) with Very Good grade.Seeking a job in the field of “Front End Development” in a reputable organization where gain experience. Eager to learn every day and gain more experience in different fields related to technology</h3>
 
 - 🌱 I’m currently learning **React JS**
 
